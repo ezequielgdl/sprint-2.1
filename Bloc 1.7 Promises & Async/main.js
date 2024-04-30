@@ -57,7 +57,7 @@ const promesa2 = new Promise((resolve, reject) => {
 
 const promesa3 = new Promise((resolve, reject) => {
   setTimeout(() => {
-    resolve("Adiós!");
+    resolve("Adeu!");
   }, 3000);
 });
 
